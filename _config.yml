@@ -57,17 +57,17 @@ about_content: | # this will include new lines to allow paragraphs
   I have worked with many languages, frameworks and technologies like <mark>C</mark>, <mark>C++</mark>, <mark>JavaScript</mark>, <mark>Mongo DB</mark>, <mark>ReactJs</mark>, <mark>ExpressJs</mark>, <mark>NodeJs</mark>, <mark>REST APIs</mark>, <mark>Redux</mark>, <mark>BootStrap</mark>, <mark>Material UI</mark>, <mark>git</mark>, etc.
     
   Currently I am looking forward to opportunities which allow me to apply my problem solving and logical thinking abilities to the real world scenarios and solve real world problems.
-  # Projects Section
-  # projects_title: Projects #(Use this to override about projects section title)
+# Projects Section
+# projects_title: Projects #(Use this to override about projects section title)
 
-  # Experience Section
-  # experience_title: Experience #(Use this to override about experience section title)
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
 
-  # Education Section
-  # education_title: Education #(Use this to override about education section title)
+# Education Section
+# education_title: Education #(Use this to override about education section title)
 
-  # More Section
-  # more_title: A Little More About Me #(Use this to override about more section title)
+# More Section
+# more_title: A Little More About Me #(Use this to override about more section title)
 
 # Footer
 footer_show_references: true
