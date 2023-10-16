@@ -34,10 +34,10 @@ linkedin_username: md-parwez-zafar
 # googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
-additional_links:
-  - title: Link name
-    icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-    url: Link url (eg. https://google.com)
+# additional_links:
+#   - title: Leetcode
+#     icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#     url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -57,20 +57,87 @@ about_content: | # this will include new lines to allow paragraphs
   I have worked with many languages, frameworks and technologies like <mark>C</mark>, <mark>C++</mark>, <mark>JavaScript</mark>, <mark>Mongo DB</mark>, <mark>ReactJs</mark>, <mark>ExpressJs</mark>, <mark>NodeJs</mark>, <mark>REST APIs</mark>, <mark>Redux</mark>, <mark>BootStrap</mark>, <mark>Material UI</mark>, <mark>git</mark>, etc.
     
   Currently I am looking forward to opportunities which allow me to apply my problem solving and logical thinking abilities to the real world scenarios and solve real world problems.
-# Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
+content:
+  - title: Education
+    layout: list
+    content:
+      - layout: left
+        title: Asansol Engineering College
+        sub_title: B.Tech, Computer Science And Engineering
+        caption: 2020 - 2024, 9.05 CGPA
+        quote: >
+          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
 
-# Experience Section
-# experience_title: Experience #(Use this to override about experience section title)
+      - layout: left
+        title: GOVT NAWAL KISHORE HIGH SCHOOL(BSEB Patna)
+        sub_title: Higher Secondary
+        caption: 2017 - 2019, 83%
+        quote: >
+          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
 
-# Education Section
-# education_title: Education #(Use this to override about education section title)
+  - title: Experience
+    layout: list
+    content:
+      - layout: left
+        title: Neonfake Enterprises
+        sub_title: Software Engineer Intern
+        caption: October 2023 - present
+        # link: Link to company (optional)
+        quote: >
+          Working as a Full-Stack Developer Intern
+        description: | # this will include new lines to allow paragraphs
+          - Developing and maintaining an admin section within a MERN stack (MongoDB, Express.js, Node.js, React.Js) website for a client.
+          - Implemented a Forgot Password functionality for users, enhancing the security and usability of the website.
+          - Removing redundant website sections to improve performance and user experience, utilizing JavaScript and ReactJs to improve performance.
+          - Continuously adding new features and functionalities to meet client requirements, enhancing user engagement and site functionality.
 
-# More Section
-# more_title: A Little More About Me #(Use this to override about more section title)
+      - layout: left
+        title: Celebal Technologies
+        sub_title: Celebal Summer Intern
+        caption: June 2023 - August 2023
+        # link: Link to company (optional)
+        quote: >
+          Received training and hands-on experience in MERN stack development
+        description: | # this will include new lines to allow paragraphs
+          - Successfully completed a task to create a dynamic weather website using MERN stack technologies (MongoDB, Express.js, Node.js, React).
+          - Independently designed and implemented a responsive, real-time weather application, providing users with up-to-date weather information and forecasts.
+          - Utilized openweathermap API to fetch weather data and develop dynamic, interactive data visualization components.
+          - Gained valuable experience in <mark>ReactJs</mark>, <mark>Redux</mark>.
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        border:
+          weak # Value of `weak` will display a weak border below this item. # Any
+          # other value (or no value) means no border will be displayed
+        title: Project name
+        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: Link Text
+        additional_links:
+          - title: Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title: Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
+
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+
+      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
