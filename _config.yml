@@ -99,6 +99,7 @@ content:
         title: Celebal Technologies
         sub_title: Celebal Summer Intern
         caption: June 2023 - August 2023
+        # link: https://github.com/parwez-zafar/weather-app
         # link: Link to company (optional)
         quote: >
           Received training and hands-on experience in MERN stack development
@@ -106,7 +107,7 @@ content:
           - Successfully completed a task to create a dynamic weather website using MERN stack technologies (MongoDB, Express.js, Node.js, React).
           - Independently designed and implemented a responsive, real-time weather application, providing users with up-to-date weather information and forecasts.
           - Utilized openweathermap API to fetch weather data and develop dynamic, interactive data visualization components.
-          - Gained valuable experience in <mark>ReactJs</mark>, <mark>Redux</mark>.
+          - Gained valuable experience in <mark>Mongo DB</mark>, <mark>ReactJs</mark>, <mark>ExpressJs</mark>, <mark>NodeJs</mark>, <mark>Redux</mark>.
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
