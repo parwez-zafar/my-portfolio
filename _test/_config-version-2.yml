@@ -6,32 +6,32 @@ repository: sproogen/modern-resume-theme
 version: 2
 
 # Personal info
-name: Md Parwez Zafar
-title: Software Engineer
-email: parwezzafar3@email.com
+name: Your Name
+title: Your job title
+email: test@email.com
 email_title: Email
-phone: +917903242752
+phone: 07845248563
 phone_title: Phone
-website: https://parwez-zafar.github.io/my-portfolio/
+website: sproogen.github.io/modern-resume-theme
 website_title: Web
 
 # Dark Mode (true/false/never)
 darkmode: never
 
 # Social links
-# twitter_username: jekyllrb
-github_username: parwez-zafar
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jekyll
-linkedin_username: md-parwez-zafar
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: jekyll
-# orcid_username: 0000-0000-0000-0000
-# googlescholar_username: D847cGsAAAAJ
+twitter_username: jekyllrb
+github_username: jekyll
+stackoverflow_username: "00000001"
+dribbble_username: jekyll
+facebook_username: jekyll
+flickr_username: jekyll
+instagram_username: jekyll
+linkedin_username: jekyll
+xing_username: jekyll
+pinterest_username: jekyll
+youtube_username: jekyll
+orcid_username: 0000-0000-0000-0000
+googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
 additional_links:
