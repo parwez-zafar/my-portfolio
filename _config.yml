@@ -10,7 +10,7 @@ name: Md Parwez Zafar
 title: Software Engineer
 email: parwezzafar3@gmail.com
 # email_title: Email (Email title override)
-phone: +917903242752
+phone: +91-7903242752
 # phone_title: Phone (Phone title override)
 website: https://parwez-zafar.github.io/my-portfolio/
 # website_title: Web (Website title override)
@@ -52,13 +52,20 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Hi, my name is Parwez. I am a student at Asansol Engineering College. My love for coding and keen interest in MERN Stack web development drives my enthusiasm for the world of technology. I am committed to continuous learning and aspire to contribute effectively to dynamic projects while building a fulfilling career in software development.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  I have worked with many languages, frameworks and technologies like <mark>C</mark>, mark>C++</mark>, <mark>JavaScript</mark>, <mark>Mongo DB</mark>, <mark>ReactJs</mark>, <mark>ExpressJs</mark>, <mark>NodeJs</mark>, <mark>REST APIs</mark>, <mark>Redux</mark>, <mark>BootStrap</mark>, <mark>Material UI</mark>, <mark>git</mark>, etc.
+    
+  Currently I am looking forward to opportunities which allow me to apply my problem solving and logical thinking abilities 
+
+  # to the real world scenarios and solve real world problems. 
+  # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+
+  # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+  #   - Lists
+  #   - Tables
+  #   - <a href="google.com">Links</a>
+  #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
