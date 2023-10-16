@@ -6,7 +6,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Md Parwez Zafar
+name: Parwez Zafar
 title: Software Engineer
 email: parwezzafar3@gmail.com
 # email_title: Email (Email title override)
@@ -56,9 +56,33 @@ about_content: | # this will include new lines to allow paragraphs
 
   I have worked with many languages, frameworks and technologies like <mark>C</mark>, <mark>C++</mark>, <mark>JavaScript</mark>, <mark>Mongo DB</mark>, <mark>ReactJs</mark>, <mark>ExpressJs</mark>, <mark>NodeJs</mark>, <mark>REST APIs</mark>, <mark>Redux</mark>, <mark>BootStrap</mark>, <mark>Material UI</mark>, <mark>git</mark>, etc.
     
-  Currently I am looking forward to opportunities which allow me to apply my problem solving and logical thinking abilities
+  Currently I am looking forward to opportunities which allow me to apply my problem solving and logical thinking abilities to the real world scenarios and solve real world problems.
 
 content:
+  - title: Experience
+      layout: list
+      content:
+        - layout: right
+          title: Company name
+          sub_title: Job title
+          caption: Date Range (eg. November 2016 - present)
+          link: Link to company (optional)
+          quote: >
+            Short description of the company (optional)
+          description: | # this will include new lines to allow paragraphs
+            Description of role
+  - title: Experience
+    layout: list
+    content:
+      - layout: right
+        title: Company name
+        sub_title: Job title
+        caption: Date Range (eg. November 2016 - present)
+        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -80,25 +104,13 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-  - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
   - title: Education
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: Asansol Engineering College
+        sub_title: B.Tech, Computer Science And Engineering
+        caption: 2020-2024, 9.05 CGPA
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
