@@ -59,7 +59,7 @@ about_content: | # this will include new lines to allow paragraphs
   Currently I am looking forward to opportunities which allow me to apply my problem solving and logical thinking abilities to the real world scenarios and solve real world problems.
 
 content:
-- title: Experience
+  - title: Experience
     layout: list
     content:
       - layout: right
