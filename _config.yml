@@ -71,6 +71,8 @@ content:
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
+  - title: Experience
+    layout: list
     content:
       - layout: right
         title: Company name
