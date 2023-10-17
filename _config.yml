@@ -131,7 +131,7 @@ content:
           A FullStack Ecommerce Website having User and Admin panel.
         description: | # this will include new lines to allow paragraphs
           - Designed and developed a full-featured Ecommerce website with separate <mark>admin</mark> and <mark>user</mark> panels from scratch.
-          - Implemented essential Ecommerce functionalities, including <mark>product catalog</mark>, user registration and authentication, shopping cart, <mark>payment processing</mark>, <mark>order management</mark>, <mark>user reviews</mark> etc.
+          - Implemented essential Ecommerce functionalities, including user registration and authentication, <mark>product catalog</mark>, shopping cart, <mark>payment processing</mark>, user reviews, <mark>order management</mark> etc.
           - Developed a user-friendly  <mark>admin panel</mark> for managing products, orders, and user accounts with appropriate  <mark>access controls</mark>.
           - Integrated secure <mark>payment gateways</mark> and ensured data privacy and security.
           - This personal project showcases my proficiency in full-stack web development, database management, and user interface design.
