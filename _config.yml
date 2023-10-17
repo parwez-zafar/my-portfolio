@@ -130,10 +130,10 @@ content:
         quote: >
           A FullStack Ecommerce Website having User and Admin panel.
         description: | # this will include new lines to allow paragraphs
-          - Designed and developed a full-featured Ecommerce website with separate admin and user panels from scratch.
-          - Implemented essential Ecommerce functionalities, including product catalog, user registration and authentication, shopping cart, payment processing, order management, and user reviews.
-          - Developed a user-friendly admin panel for managing products, orders, and user accounts with appropriate access controls.
-          - Integrated secure payment gateways and ensured data privacy and security.
+          - Designed and developed a full-featured Ecommerce website with separate <mark>admin</mark> and <mark>user</mark> panels from scratch.
+          - Implemented essential Ecommerce functionalities, including <mark>product catalog</mark>, user registration and authentication, shopping cart, <mark>payment processing</mark>, <mark>order management</mark>, <mark>user reviews</mark> etc.
+          - Developed a user-friendly  <mark>admin panel</mark> for managing products, orders, and user accounts with appropriate  <mark>access controls</mark>.
+          - Integrated secure <mark>payment gateways</mark> and ensured data privacy and security.
           - This personal project showcases my proficiency in full-stack web development, database management, and user interface design.
           - TechStack :- <mark>Mongo DB</mark>, <mark>ExpressJs</mark>, <mark>ReactJs</mark>, <mark>NodeJs</mark>, <mark>Redux</mark>, <mark>REST APIs</mark>, <mark>Material UI</mark>, <mark>JsonWebToken</mark>.
 
@@ -157,11 +157,10 @@ content:
         quote: >
           A FullStack Food Delivery Website.
         description: | # this will include new lines to allow paragraphs
-          - Designed and developed a full-featured Ecommerce website with separate admin and user panels from scratch.
-          - Implemented essential Ecommerce functionalities, including product catalog, user registration and authentication, shopping cart, payment processing, order management, and user reviews.
-          - Developed a user-friendly admin panel for managing products, orders, and user accounts with appropriate access controls.
-          - Integrated secure payment gateways and ensured data privacy and security.
-          - This personal project showcases my proficiency in full-stack web development, database management, and user interface design.
+          - Designed and developed a Food Delivery Website using the MERN stack (MongoDB, ExpressJS, ReactJS, NodeJS).
+          - Implemented secure user authentication with JSON Web Tokens (JWT) for signup and login functionality.
+          - Built a RESTful API for handling food orders, menu items, and user profiles.
+          - Utilized MongoDB to efficiently store and retrieve data, ensuring optimal performance and scalability.
           - TechStack :- <mark>Mongo DB</mark>, <mark>ExpressJs</mark>, <mark>ReactJs</mark>, <mark>NodeJs</mark>, <mark>Redux</mark>, <mark>REST APIs</mark>, <mark>Bootstrap</mark>.
 
   - title: A Little More About Me
