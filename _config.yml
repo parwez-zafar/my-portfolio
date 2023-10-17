@@ -83,7 +83,7 @@ content:
     layout: list
     content:
       - layout: left
-        title: Neonfake Enterprises
+        title: Neonflake Enterprises
         sub_title: Software Engineer Intern
         caption: October 2023 - present
         # link: Link to company (optional)
@@ -94,6 +94,8 @@ content:
           - Implemented a Forgot Password functionality for users, enhancing the security and usability of the website.
           - Removing redundant website sections to improve performance and user experience, utilizing JavaScript and ReactJs to improve performance.
           - Continuously adding new features and functionalities to meet client requirements, enhancing user engagement and site functionality.
+
+          ---
 
       - layout: left
         title: Celebal Technologies
@@ -112,23 +114,55 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        # border:
+        #   weak # Value of `weak` will display a weak border below this item. # Any
+        # other value (or no value) means no border will be displayed
+        title: Ecommerce Website
+        # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        # github: https://github.com/parwez-zafar/Ecommerce-Website
+        additional_links:
+          - title: Github
+            icon: fab fa-github
+            url: https://github.com/parwez-zafar/Ecommerce-Website
+          # - title: Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          A FullStack Ecommerce Website having User and Admin panel.
+        description: | # this will include new lines to allow paragraphs
+          - Designed and developed a full-featured Ecommerce website with separate admin and user panels from scratch.
+          - Implemented essential Ecommerce functionalities, including product catalog, user registration and authentication, shopping cart, payment processing, order management, and user reviews.
+          - Developed a user-friendly admin panel for managing products, orders, and user accounts with appropriate access controls.
+          - Integrated secure payment gateways and ensured data privacy and security.
+          - This personal project showcases my proficiency in full-stack web development, database management, and user interface design.
+          - TechStack :- <mark>Mongo DB</mark>, <mark>ExpressJs</mark>, <mark>ReactJs</mark>, <mark>NodeJs</mark>, <mark>Redux</mark>, <mark>REST APIs</mark>, <mark>Material UI</mark>, <mark>JsonWebToken</mark>.
+
+
+          ---------------
+
+      - layout: left
         border:
           weak # Value of `weak` will display a weak border below this item. # Any
           # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        title: Food Delivery Website
+        link: https://extraordinary-profiterole-c3cb99.netlify.app/
+        # github: https://github.com/parwez-zafar/Ecommerce-Website
         additional_links:
-          - title: Github page for project (eg. sproogen/modern-resume-theme)
+          - title: Github Client
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title: Github page for project (eg. sproogen/modern-resume-theme)
+            url: https://github.com/parwez-zafar/food_web_app_client
+          - title: Github Server
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: https://github.com/parwez-zafar/food_web_app_server
         quote: >
-          Short overview of the project (optional)
+          A FullStack Food Delivery Website.
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          - Designed and developed a full-featured Ecommerce website with separate admin and user panels from scratch.
+          - Implemented essential Ecommerce functionalities, including product catalog, user registration and authentication, shopping cart, payment processing, order management, and user reviews.
+          - Developed a user-friendly admin panel for managing products, orders, and user accounts with appropriate access controls.
+          - Integrated secure payment gateways and ensured data privacy and security.
+          - This personal project showcases my proficiency in full-stack web development, database management, and user interface design.
+          - TechStack :- <mark>Mongo DB</mark>, <mark>ExpressJs</mark>, <mark>ReactJs</mark>, <mark>NodeJs</mark>, <mark>Redux</mark>, <mark>REST APIs</mark>, <mark>Bootstrap</mark>.
 
   - title: A Little More About Me
     layout: text
