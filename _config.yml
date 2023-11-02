@@ -11,12 +11,12 @@ title: Software Engineer
 email: parwezzafar3@gmail.com
 # email_title: Email (Email title override)
 phone: +91-7903242752
-# phone_title: Phone (Phone title override)
-website: https://parwez-zafar.github.io/my-portfolio/
-# website_title: Web (Website title override)
+phone_title: Phone
+website: https://leetcode.com/parwez01/
+website_title: LeetCode
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 # twitter_username: jekyllrb
@@ -31,16 +31,16 @@ linkedin_username: md-parwez-zafar
 # pinterest_username: jekyll
 # youtube_username: jekyll
 # orcid_username: 0000-0000-0000-0000
-# googlescholar_username: D847cGsAAAAJ
+# leetcode_username: parwez01
 
 # Additional icon links
-# additional_links:
-#   - title: Leetcode
-#     icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+additional_links:
+  - title: Leetcode
+    icon: fab fa-strava fa-rotate-270
+    url: https://google.com
+#   - title: another link
+#     icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #     url: Link url (eg. https://google.com)
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
