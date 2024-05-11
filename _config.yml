@@ -54,7 +54,7 @@ about_profile_image: images/image.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Parwez. I am a student at Asansol Engineering College. My love for coding, problem solving and keen interest in MERN Stack web development drives my enthusiasm for the world of technology. I am committed to continuous learning and aspire to contribute effectively to dynamic projects while building a fulfilling career in software development.
 
-  I have worked with many languages, frameworks and technologies like <mark>C</mark>, <mark>C++</mark>, <mark>JavaScript</mark>, <mark>Mongo DB</mark>, <mark>ReactJs</mark>, <mark>ExpressJs</mark>, <mark>NodeJs</mark>, <mark>REST APIs</mark>, <mark>Redux</mark>, <mark>BootStrap</mark>, <mark>Material UI</mark>, <mark>git</mark>, etc.
+  I have worked with many languages, frameworks and technologies like <mark>C</mark>, <mark>C++</mark>, <mark>JavaScript</mark>, <mark>Mongo DB</mark>, <mark>ReactJs</mark>, <mark>Angular</mark>, <mark>ExpressJs</mark>, <mark>NodeJs</mark>, <mark>REST APIs</mark>, <mark>Redux</mark>, <mark>BootStrap</mark>, <mark>Material UI</mark>, <mark>git</mark>, etc.
     
   Currently I am looking forward to opportunities which allow me to apply my problem solving and logical thinking abilities to the real world scenarios and solve real world problems.
 content:
@@ -86,17 +86,31 @@ content:
     layout: list
     content:
       - layout: left
+        title: Trustt (formerly novopay)
+        sub_title: Software Development Engineer Intern
+        caption: February 2024 - present
+        # link: Link to company (optional)
+        quote: >
+          Working as a web Developer Intern
+        description: | # this will include new lines to allow paragraphs
+          - Working on <mark>Novopay Platform Web App</mark>: Contributing to the development and maintenance of the Novopay platform web application using <mark>Angular</mark>.
+          - <mark>Resolved Active Link Bug</mark>: Successfully diagnosed and rectified a critical issue where the sidebar item failed to highlight upon activation, enhancing user navigation and experience.
+
+
+          ---
+
+      - layout: left
         title: Neonflake Enterprises
         sub_title: Software Engineer Intern
-        caption: October 2023 - present
+        caption: October 2023 - January 2024
         # link: Link to company (optional)
         quote: >
           Working as a Full-Stack Developer Intern
         description: | # this will include new lines to allow paragraphs
-          - Developing and maintaining an admin section within a MERN stack (MongoDB, Express.js, Node.js, React.Js) website for a client.
-          - Implemented a Forgot Password functionality for users, enhancing the security and usability of the website.
-          - Removing redundant website sections to improve performance and user experience, utilizing JavaScript and ReactJs to improve performance.
-          - Continuously adding new features and functionalities to meet client requirements, enhancing user engagement and site functionality.
+          - Developed and maintained an admin section within a <mark>MERN stack</mark> (MongoDB, Express.js, Node.js, React.Js) website for a client.
+          - Implemented a <mark>Forgot Password</mark> functionality for users, enhancing the security and usability of the website.
+          - Removed redundant website sections to improve performance and user experience, utilized <mark>JavaScript</mark> and ReactJs to improve performance.
+          - Added new features and functionalities to meet <mark>client requirements</mark>, enhanced user engagement and site functionality.
 
           ---
 
