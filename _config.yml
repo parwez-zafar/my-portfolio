@@ -88,13 +88,16 @@ content:
       - layout: left
         title: Trustt (formerly novopay)
         sub_title: Software Development Engineer Intern
-        caption: February 2024 - present
+        caption: February 2024 - September 2024
         # link: Link to company (optional)
         quote: >
-          Working as a Software Development Engineer Intern
+          Worked as a Software Development Engineer Intern
         description: | # this will include new lines to allow paragraphs
-          - Working on <mark>Novopay Platform Web App</mark>: Contributing to the development and maintenance of the Novopay platform web application using <mark>Angular</mark>.
+          - Worked on <mark>Novopay Platform Web App</mark>: Contributed in the development and maintenance of the Novopay platform web application using <mark>Angular</mark>.
           - <mark>Resolved Active Link Bug</mark>: Successfully diagnosed and rectified a critical issue where the sidebar item failed to highlight upon activation, enhancing user navigation and experience.
+          - Optimized performance and reduced <mark>loading time</mark> in the web application by implementing <mark>lazy loading</mark>.
+          - Implemented new requirements from <mark>India's largest bank</mark> to enhance the platform's functionality.
+          - Gained valuable experience in <mark>Angular</mark>, <mark>TypeScript</mark>, <mark>Banking Domain</mark>, <mark>Project Managemnt</mark>.
 
 
           ---
@@ -105,7 +108,7 @@ content:
         caption: October 2023 - January 2024
         # link: Link to company (optional)
         quote: >
-          Working as a Full-Stack Developer Intern
+          Worked as a Full-Stack Developer Intern
         description: | # this will include new lines to allow paragraphs
           - Developed and maintained an admin section within a <mark>MERN stack</mark> (MongoDB, Express.js, Node.js, React.Js) website for a client.
           - Implemented a <mark>Forgot Password</mark> functionality for users, enhancing the security and usability of the website.
