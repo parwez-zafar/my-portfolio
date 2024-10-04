@@ -43,7 +43,7 @@ additional_links:
 #     url: Link url (eg. https://google.com)
 
 # Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
+# Using more than one of these may cause issues with reporting bundle exec jekyll serve
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
 # google_analytics: "UA-00000000-0"
@@ -52,7 +52,7 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/image.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Parwez. I am a student at Asansol Engineering College. My love for coding, problem solving and keen interest in MERN Stack web development drives my enthusiasm for the world of technology. I am committed to continuous learning and aspire to contribute effectively to dynamic projects while building a fulfilling career in software development.
+  Hi, my name is Parwez. I have completed my B.Tech in Computer Science & Engineering from Asansol Engineering College with a CGPA of 8.80. My love for coding, problem solving and keen interest in MERN Stack web development drives my enthusiasm for the world of technology. I am committed to continuous learning and aspire to contribute effectively to dynamic projects while building a fulfilling career in software development.
 
   I have worked with many languages, frameworks and technologies like <mark>C</mark>, <mark>C++</mark>, <mark>JavaScript</mark>, <mark>Mongo DB</mark>, <mark>ReactJs</mark>, <mark>Angular</mark>, <mark>ExpressJs</mark>, <mark>NodeJs</mark>, <mark>REST APIs</mark>, <mark>Redux</mark>, <mark>BootStrap</mark>, <mark>Material UI</mark>, <mark>git</mark>, etc.
     
@@ -64,7 +64,7 @@ content:
       - layout: left
         title: Asansol Engineering College
         sub_title: B.Tech, Computer Science And Engineering
-        caption: 2020 - 2024, 9.05 CGPA
+        caption: 2020 - 2024, 8.80 CGPA
         quote: >
           Asansol Engineering College (AEC) is affiliated with Maulana Abul Kalam Azad University of Technology, West Bengal
         description: | # this will include new lines to allow paragraphs
@@ -94,7 +94,7 @@ content:
           Worked as a Software Development Engineer Intern
         description: | # this will include new lines to allow paragraphs
           - Worked on <mark>Novopay Platform Web App</mark>: Contributed in the development and maintenance of the Novopay platform web application using <mark>Angular</mark>.
-          - <mark>Resolved Active Link Bug</mark>: Successfully diagnosed and rectified a critical issue where the sidebar item failed to highlight upon activation, enhancing user navigation and experience.
+          - <mark>Resolved Active Link Bug</mark>: Successfully diagnosed and rectified a critical issue where the sidebar item failed to highlight upon activation, enhanced user navigation and experience.
           - Optimized performance and reduced <mark>loading time</mark> in the web application by implementing <mark>lazy loading</mark>.
           - Implemented new requirements from <mark>India's largest bank</mark> to enhance the platform's functionality.
           - Gained valuable experience in <mark>Angular</mark>, <mark>TypeScript</mark>, <mark>Banking Domain</mark>, <mark>Project Managemnt</mark>.
